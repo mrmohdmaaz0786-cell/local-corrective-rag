@@ -1,0 +1,12 @@
+langchain-community==0.4.2
+langchain-core==1.5.1
+langchain-text-splitters==1.1.2
+langchain-ollama==1.1.0
+langgraph==1.2.11
+pypdf==6.16.1
+faiss-cpu==1.15.0
+pydantic==2.13.5
+python-dotenv==1.2.3
+ollama==0.6.2
+httpx==0.28.1
+ipykernel==7.1.0
